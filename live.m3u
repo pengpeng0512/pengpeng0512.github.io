@@ -1,7 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-10.ctv
+http://171.213.130.138:8889/udp/239.93.0.162:2192
+http://171.213.130.138:8889/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-https://stream1.freetv.fun/feng-huang-zi-xun-19.ctv
+http://171.213.130.138:8889/udp/239.93.0.118:2191
+http://171.213.130.138:8889/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
+http://124.244.149.194:65531/bysid/85
